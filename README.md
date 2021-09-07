@@ -19,6 +19,7 @@ cd template_odoo_docker_compose
 ~~~
 cp copy.env .env
 cp copy.docker-compose.yaml docker-compose.yaml
+cp config/copy.odoo.conf config/odoo.conf
 ~~~
 4. Editar parámetros de .env
 ~~~
